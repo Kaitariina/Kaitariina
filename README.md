@@ -25,7 +25,7 @@ In addition, this far during my studies and for fun, I've learned the basics or 
 
 |Other projects| Description | Using |
 | :---  | --- | --- |
-| [Game Server Proto](https://github.com/Kaitariina/gspc-project) | A backend solution prototype that could be used for a cardgame  | C#, MongoDB, Postman |
+| [Game Backend Proto](https://github.com/Kaitariina/gspc-project) | A backend solution prototype that could be used for a cardgame  | C#, MongoDB, Postman |
 
 
 
