@@ -1,6 +1,6 @@
 ### Hi there, I am glad you are here :coffee:
 
-&nbsp; &nbsp; &nbsp; My name is **Katariina** and I'm a programmer in the making.
+&nbsp; &nbsp; &nbsp; My name is **Katariina** and I'm a programmer.
 
 &nbsp; \
 I mainly use ` Unity and C# ` with my projects. 
