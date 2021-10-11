@@ -13,13 +13,19 @@ In addition, this far during my studies and for fun, I've learned the basics or 
 ---
 
 
-### Project highlights 
+### Project highlights
 
-| Project  |  Description | Available to try? |
+| Game projects  |  Description | Available to try? |
 | :------- | :----------- | :---------------: |
 | Palloässät | An educational mobile game aimed for kids, to learn about sustainability | Soon! (Q4 2021) |
-| Gelauto   |  My most recent PC game project, about making and selling ice cream :icecream:  | :heavy_check_mark: [>here<](https://github.com/Kaitariina/gelauto) 
-| [Ocean Invaders](https://github.com/Kaitariina/ocean-invaders) | My first solo project, a game influenced by Space Invaders :space_invader: | :heavy_check_mark: [>here<](https://kaitariina.github.io/ocean-invaders-thegame/)
+| Gelauto   |  My most recent PC game project, about making and selling ice cream :icecream:  | :heavy_check_mark: [>here<](https://github.com/Kaitariina/gelauto) |
+| [Ocean Invaders](https://github.com/Kaitariina/ocean-invaders) | My first solo project, a game influenced by Space Invaders :space_invader: | :heavy_check_mark: [>here<](https://kaitariina.github.io/ocean-invaders-thegame/) |
+
+&nbsp; 
+
+|Other projects| Description | Using |
+| :---  | --- | --- |
+| [Game Server Proto](https://github.com/Kaitariina/gspc-project) | A backend solution prototype that could be used for a cardgame  | C#, MongoDB, Postman |
 
 
 
